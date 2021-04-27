@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import "./App.css";
+import "../App.css";
 
 import { Canvas } from "@react-three/fiber";
 

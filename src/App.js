@@ -1,8 +1,8 @@
-import React, { Suspense } from "react";
+import React from "react";
 import "./App.css";
 
-import Nav from "./Nav";
-import Landing from "./Landing";
+import Nav from "./components/Nav";
+import Landing from "./components/Landing";
 
 function App() {
   return (
